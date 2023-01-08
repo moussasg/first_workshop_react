@@ -1,0 +1,6 @@
+.gros {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    background-color: aqua;
+}
